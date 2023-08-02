@@ -5,12 +5,12 @@ import time
 
 # all 4 authentication keys to access twitter API
 # to connect as OAth handler or jump serever / revers proxy server
-consumer_key = "8AO6OU5ubyi4XO47b1C7Sjdlz"
-consumer_sec = "FS1usPrfPolvjLXbwGka5N8TWkOZhUsdxGmmTwuO016koesUSt"
+consumer_key = "hAIGnUgnUT9nPw70Fx5LxGgQr"
+consumer_sec = "muKnI3JjOzdQPStZNSCbFUdRfk6gH1pW8tDoIgiPOrdlOBnhAB"
 
 # from proxy server we need to connect
-access_token = "1151573806680592384-OUFeUtpsRFZM6jQxl1AG99NEjlY0Kt"
-access_token_sec = "KKHmkHkDGVaDof8XK4fKKI52DmNl4vZlaXnx85WRfd4Lr"
+access_token = "1414966657416499206-xg0t1rgAE0cIfYHc0XcvZOMIrHlvX4"
+access_token_sec = "IlbiDLAIgv0s8uIADrprGQ6kTMm9lWIcA9psTYt5WnYjX"
 
 # tweepy explore
 dir(tweepy)
@@ -25,7 +25,7 @@ auth.set_access_token(access_token,access_token_sec)
 api_connect=tweepy.API(auth)
 
 # now you can search any topic on twitter
-tweet_data=api_connect.search('India',count=100)
+tweet_data=api_connect.search('NLP',count=100)
 
 pos=0
 neg=0

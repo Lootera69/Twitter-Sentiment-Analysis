@@ -1,0 +1,12 @@
+# all 4 authentication keys to access twitter API
+# to connect as OAth handler or jump serever / revers proxy server
+consumer_key = "hAIGnUgnUT9nPw70Fx5LxGgQr"
+consumer_sec = "muKnI3JjOzdQPStZNSCbFUdRfk6gH1pW8tDoIgiPOrdlOBnhAB"
+
+# from proxy server we need to connect
+access_token = "1414966657416499206-xg0t1rgAE0cIfYHc0XcvZOMIrHlvX4"
+access_token_sec = "IlbiDLAIgv0s8uIADrprGQ6kTMm9lWIcA9psTYt5WnYjX"
+
+
+
+
