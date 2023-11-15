@@ -18,13 +18,13 @@ Run the script:
 ```bash
 python sentiment_analysis.py
 ```
-##How It Works
+## How It Works
 The script fetches tweets related to a specified topic (e.g., 'NLP') using the Twitter API. It then employs sentiment analysis with TextBlob to determine whether each tweet carries a positive, negative, or neutral sentiment. The results are presented visually through a pie chart, offering a clear depiction of the sentiment distribution within the collected tweets.
 
-##Results and Insights
+## Results and Insights
 Embark on a journey to gain comprehensive insights into the sentiment landscape surrounding your chosen topic. Uncover the pulse of public opinion and discover prevailing emotions within the Twitter community. The pie chart visually represents the sentiment breakdown, allowing for a quick and intuitive understanding of the overall sentiment trend.
 
-##Contributions
+## Contributions
 Feel free to contribute to this project, share your feedback, or suggest improvements. Let's collaborate to enhance and refine this Twitter Sentiment Analysis tool, making it a valuable resource for understanding online sentiments.
 
 ### Technology Stack
