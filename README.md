@@ -53,8 +53,8 @@ This project wouldn't have been possible without the invaluable contributions of
 - **[Tweepy](https://www.tweepy.org/):** The Python library for accessing the Twitter API, which forms the backbone of our data retrieval process.
 
 - **[TextBlob](https://textblob.readthedocs.io/):** This powerful NLP library significantly enhances our sentiment analysis capabilities, making it easier to discern the sentiments expressed in tweets.
-- 
 
-[Sentiment Analysis on Twitter Data (PDF)](Sentiment%20Analysis%20on%20Twitter%20Data.pdf)
+
+- [Sentiment Analysis on Twitter Data (PDF)](Sentiment%20Analysis%20on%20Twitter%20Data.pdf)
 
 
