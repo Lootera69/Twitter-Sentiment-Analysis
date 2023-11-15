@@ -27,7 +27,7 @@ cd twitter-sentiment-analysis
 ```
 Open the script and replace placeholder values for Twitter API credentials.
 
-Run the script:
+### Run the script:
 ```bash
 python sentiment_analysis.py
 ```
