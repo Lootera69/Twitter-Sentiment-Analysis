@@ -55,5 +55,6 @@ This project wouldn't have been possible without the invaluable contributions of
 - **[TextBlob](https://textblob.readthedocs.io/):** This powerful NLP library significantly enhances our sentiment analysis capabilities, making it easier to discern the sentiments expressed in tweets.
 - 
 
-[Sentiment Analysis Documentation (PDF)](Sentiment_Analysis_on_Twitter_Data.pdf)
+[Sentiment Analysis on Twitter Data (PDF)](Sentiment%20Analysis%20on%20Twitter%20Data.pdf)
+
 
