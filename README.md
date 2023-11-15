@@ -1,12 +1,17 @@
-## Sentiment Analysis with NLP on Twitter Data
+# Twitter Sentiment Analysis
 
-### Description
+## Overview
+This project utilizes the Twitter API for sentiment analysis on tweets related to a specific topic. By applying natural language processing (NLP) through the TextBlob library, the script determines the sentiment polarity of each tweet.
 
-This project involves a Sentiment Analysis system that utilizes Natural Language Processing (NLP) techniques to analyze Twitter data. It connects to the Twitter API through Tweepy, retrieves tweets related to a specific topic (e.g., "India"), and applies NLP sentiment analysis using TextBlob.
+## Prerequisites
+- Twitter Developer account with API keys and access tokens.
+- Python installed, along with required libraries: tweepy, matplotlib, and textblob.
 
-### Sentiment Analysis Results
+## Getting Started
+```bash
+git clone https://github.com/Lootera69/twitter-sentiment-analysis.git
+cd twitter-sentiment-analysis
 
-Using the TextBlob library, the project performs sentiment analysis on the collected Twitter data. Tweets are categorized into positive, negative, and neutral sentiments based on their polarity. The results are presented through a pie chart, illustrating the distribution of positive, negative, and neutral tweets related to the chosen topic.
 
 ### Technology Stack
 
